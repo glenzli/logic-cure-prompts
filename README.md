@@ -22,11 +22,13 @@
 
 
 
-在使用大模型的过程中，我们经常会遇到模型在处理严谨的数学、物理、系统设计或长逻辑链条任务时，出现“一本正经地胡说八道”（比如我们的输入出现了造成逻辑问题的 typo）的情况。
+在使用大模型的过程中，我们经常会遇到模型在处理严谨的数学、物理、系统设计或长逻辑链条任务时，出现“一本正经地胡说八道”的情况。
+
+特别是当我们在输入中出现 Typo（拼写或输入法导致的文本错误）时，大模型往往**缺乏自动纠错甚至识别错误的能力**。它不仅不会停下来确认，反而会“顺着”这个错误的词组进行天马行空的发散推演，把错误当成你的真实意图，哪怕这会导致后面的逻辑全盘崩溃。
 
 
 
-**Logic Cure Prompts** 的目标是通过特定结构的 Prompt（系统提示或对话前缀），在输入层面对模型的认知模式进行干预和“治愈”，强制模型在输出前进行逻辑自洽审计、思维链构建或常识校验，从而大幅提升模型在复杂场景下的表现。
+**Logic Cure Prompts** 的愿景与目标是通过特定结构的 Prompt（系统提示或对话前缀），在输入层面对模型的认知模式进行干预和“治愈”。我们希望强制模型在输出前进行逻辑自洽审计、思维链构建或常识校验，使其具备应对人类错误输入的鲁棒性，从而大幅提升模型在复杂、严谨场景下的表现与可靠性。
 
 
 
@@ -134,11 +136,13 @@ Welcome to the **Logic Cure Prompts** repository! This is a curated collection o
 
 
 
-When interacting with LLMs, we often encounter situations where the model "hallucinates confidently" when handling rigorous topics like mathematics, physics, system design, or long-chain logical tasks (for example, when our input contains typos that lead to logical contradictions).
+When interacting with LLMs, we often encounter situations where the model "hallucinates confidently" when handling rigorous topics like mathematics, physics, system design, or long-chain logical tasks. 
+
+This is especially true when our input contains a Typo. LLMs frequently **lack the ability to auto-correct or even recognize these typos contextually**. Instead of pausing to clarify, they will wildly diverge and build complex, logically flawed derivations exactly based on that single mistake, treating your typo as your actual intent, even if the entire logical chain collapses as a result.
 
 
 
-The goal of **Logic Cure Prompts** is to intervene and "cure" the model's cognitive patterns at the input level through precisely structured Prompts (System Prompts or conversational prefixes). By forcing the model to perform logical self-auditing, construct chain-of-thought, or validate common sense before generating output, we can significantly improve the model's reliability in complex scenarios.
+The vision and goal of **Logic Cure Prompts** is to intervene and "cure" the model's cognitive patterns at the input level through precisely structured Prompts (System Prompts or conversational prefixes). By forcing the model to perform logical self-auditing, construct chain-of-thought, or validate common sense before generating output, we aim to make LLMs more robust against human input errors, thereby significantly improving their reliability and performance in complex, rigorous scenarios.
 
 
 
