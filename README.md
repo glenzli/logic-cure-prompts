@@ -24,7 +24,7 @@
 
 在使用大模型的过程中，我们经常会遇到模型在处理严谨的数学、物理、系统设计或长逻辑链条任务时，出现“一本正经地胡说八道”的情况。
 
-特别是当我们在输入中出现 Typo（拼写或输入法导致的文本错误）时，大模型往往**缺乏自动纠错甚至识别错误的能力**。它不仅不会停下来确认，反而会“顺着”这个错误的词组进行天马行空的发散推演，把错误当成你的真实意图，哪怕这会导致后面的逻辑全盘崩溃。
+比如，一种情况是当我们在输入中出现 Typo（拼写或输入法导致的文本错误）时，大模型往往**缺乏自动纠错甚至识别错误的能力**。它不仅不会停下来确认，反而会“顺着”这个错误的词组进行天马行空的发散推演，把错误当成你的真实意图，哪怕这会导致后面的逻辑全盘崩溃。
 
 
 
@@ -138,7 +138,7 @@ Welcome to the **Logic Cure Prompts** repository! This is a curated collection o
 
 When interacting with LLMs, we often encounter situations where the model "hallucinates confidently" when handling rigorous topics like mathematics, physics, system design, or long-chain logical tasks. 
 
-This is especially true when our input contains a Typo. LLMs frequently **lack the ability to auto-correct or even recognize these typos contextually**. Instead of pausing to clarify, they will wildly diverge and build complex, logically flawed derivations exactly based on that single mistake, treating your typo as your actual intent, even if the entire logical chain collapses as a result.
+For instance, one such situation is when our input contains a Typo. LLMs frequently **lack the ability to auto-correct or even recognize these typos contextually**. Instead of pausing to clarify, they will wildly diverge and build complex, logically flawed derivations exactly based on that single mistake, treating your typo as your actual intent, even if the entire logical chain collapses as a result.
 
 
 
