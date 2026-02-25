@@ -60,6 +60,12 @@ logic-cure-prompts/
 
 │   └── prompt.en.md        # 时间感知 Prompt (英文)
 
+├── anti-delusion/          # 防妄想与脚踏实地增强分类
+
+│   ├── prompt.zh-CN.md     # 防妄想 Prompt (中文)
+
+│   └── prompt.en.md        # 防妄想 Prompt (英文)
+
 ├── xxx-feature/            # 未来添加的其他特定逻辑增强类 Prompt
 
 └── README.md               # 本文件
@@ -179,6 +185,12 @@ logic-cure-prompts/
 │   ├── prompt.zh-CN.md     # Time Awareness Prompt (Chinese)
 
 │   └── prompt.en.md        # Time Awareness Prompt (English)
+
+├── anti-delusion/          # Anti-Delusion & Grounded Reasoning
+
+│   ├── prompt.zh-CN.md     # Anti-Delusion Prompt (Chinese)
+
+│   └── prompt.en.md        # Anti-Delusion Prompt (English)
 
 ├── xxx-feature/            # Future additions for specific logic-enhancing Prompts
 
