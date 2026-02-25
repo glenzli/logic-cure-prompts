@@ -54,6 +54,12 @@ logic-cure-prompts/
 
 │   └── prompt.en.md        # 逻辑纠偏 Prompt (英文)
 
+├── time-awareness/         # 时间感知增强分类
+
+│   ├── prompt.zh-CN.md     # 时间感知 Prompt (中文)
+
+│   └── prompt.en.md        # 时间感知 Prompt (英文)
+
 ├── xxx-feature/            # 未来添加的其他特定逻辑增强类 Prompt
 
 └── README.md               # 本文件
@@ -167,6 +173,12 @@ logic-cure-prompts/
 │   ├── prompt.zh-CN.md     # Logic Correction Prompt (Chinese)
 
 │   └── prompt.en.md        # Logic Correction Prompt (English)
+
+├── time-awareness/         # Time Awareness Enhancement
+
+│   ├── prompt.zh-CN.md     # Time Awareness Prompt (Chinese)
+
+│   └── prompt.en.md        # Time Awareness Prompt (English)
 
 ├── xxx-feature/            # Future additions for specific logic-enhancing Prompts
 
