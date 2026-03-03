@@ -1,0 +1,58 @@
+version: 1
+entries:
+  prompt-src/time-awareness/prompt.vasm.md|zh-CN:
+    inputSignature: aced5bc42d1f5564f1e1c0e5dcc6fb9a23f69a9ee9ebbd808535ade28bfe54e3
+    outputFile: prompt/time-awareness/prompt.zh-CN.md
+    targetLang: zh-CN
+  prompt-src/time-awareness/prompt.vasm.md|en:
+    inputSignature: aced5bc42d1f5564f1e1c0e5dcc6fb9a23f69a9ee9ebbd808535ade28bfe54e3
+    outputFile: prompt/time-awareness/prompt.en.md
+    targetLang: en
+  prompt-src/step-trace/prompt.vasm.md|zh-CN:
+    inputSignature: e8c17c6eb29de31c25313c7049458df95c325592d29a172b8a19805cbe30b9d1
+    outputFile: prompt/step-trace/prompt.zh-CN.md
+    targetLang: zh-CN
+  prompt-src/step-trace/prompt.vasm.md|en:
+    inputSignature: e8c17c6eb29de31c25313c7049458df95c325592d29a172b8a19805cbe30b9d1
+    outputFile: prompt/step-trace/prompt.en.md
+    targetLang: en
+  prompt-src/source-grounding/prompt.vasm.md|zh-CN:
+    inputSignature: 8981d5783915ccde146b9404527471070d8dee948e057ec04618d3815f80b359
+    outputFile: prompt/source-grounding/prompt.zh-CN.md
+    targetLang: zh-CN
+  prompt-src/source-grounding/prompt.vasm.md|en:
+    inputSignature: 8981d5783915ccde146b9404527471070d8dee948e057ec04618d3815f80b359
+    outputFile: prompt/source-grounding/prompt.en.md
+    targetLang: en
+  prompt-src/scope-anchoring/prompt.vasm.md|zh-CN:
+    inputSignature: 860b72a036c985d1333a0ed7af5cdc9e0dae696d009ee60bbdbea38e4f480af0
+    outputFile: prompt/scope-anchoring/prompt.zh-CN.md
+    targetLang: zh-CN
+  prompt-src/scope-anchoring/prompt.vasm.md|en:
+    inputSignature: 860b72a036c985d1333a0ed7af5cdc9e0dae696d009ee60bbdbea38e4f480af0
+    outputFile: prompt/scope-anchoring/prompt.en.md
+    targetLang: en
+  prompt-src/logic-correction/prompt.vasm.md|zh-CN:
+    inputSignature: 97940c23add8441580dc6aaee7714c6db6fee812ad597d3eb6ee8058ccc5fe7e
+    outputFile: prompt/logic-correction/prompt.zh-CN.md
+    targetLang: zh-CN
+  prompt-src/logic-correction/prompt.vasm.md|en:
+    inputSignature: 97940c23add8441580dc6aaee7714c6db6fee812ad597d3eb6ee8058ccc5fe7e
+    outputFile: prompt/logic-correction/prompt.en.md
+    targetLang: en
+  prompt-src/context-focus/prompt.vasm.md|zh-CN:
+    inputSignature: 4395b3c57df85a4dfa5c6151f50a6983e1d45a4ff447dbcd776acc637b216d40
+    outputFile: prompt/context-focus/prompt.zh-CN.md
+    targetLang: zh-CN
+  prompt-src/context-focus/prompt.vasm.md|en:
+    inputSignature: 4395b3c57df85a4dfa5c6151f50a6983e1d45a4ff447dbcd776acc637b216d40
+    outputFile: prompt/context-focus/prompt.en.md
+    targetLang: en
+  prompt-src/anti-delusion/prompt.vasm.md|zh-CN:
+    inputSignature: 256d01b594a17473aeebad2d7db0a74475841325b46543dc3194f351f163f264
+    outputFile: prompt/anti-delusion/prompt.zh-CN.md
+    targetLang: zh-CN
+  prompt-src/anti-delusion/prompt.vasm.md|en:
+    inputSignature: 256d01b594a17473aeebad2d7db0a74475841325b46543dc3194f351f163f264
+    outputFile: prompt/anti-delusion/prompt.en.md
+    targetLang: en

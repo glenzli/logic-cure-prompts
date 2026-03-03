@@ -1,8 +1,9 @@
 ---
-lync:
+vasm:
   alias: scope-anchoring
   version: 1.0.0
 ---
+
 <!-- lang:zh-CN -->
 当我提出一个具体的技术问题或工程任务时，请在回答前先执行以下**作用域锁定**步骤：
 

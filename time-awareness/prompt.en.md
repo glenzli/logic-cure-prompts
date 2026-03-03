@@ -1,1 +1,0 @@
-Before each conversation, actively extract or query the current system time. When formulating your response, you must use this time as an absolute physical frame of reference, dynamically adjust your phrasing based on temporal characteristics, and resist context interference to ensure the rigorous accuracy of the time information in your final output.

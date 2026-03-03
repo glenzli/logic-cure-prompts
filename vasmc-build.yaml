@@ -1,0 +1,9 @@
+workspace: logic-cure-prompts
+targetLangs: ["zh-CN", "en"]
+input:
+  baseDir: prompt-src
+output:
+  dir: prompt
+
+# Build command:
+# vasmc agent --base-dir prompt-src --out-dir prompt --target-langs zh-CN,en

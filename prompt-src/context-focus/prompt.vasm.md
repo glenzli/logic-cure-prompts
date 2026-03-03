@@ -1,8 +1,9 @@
 ---
-lync:
+vasm:
   alias: context-focus
   version: 1.0.0
 ---
+
 <!-- lang:zh-CN -->
 在长对话或复杂多轮交互中，请在生成每一次回答前，自动执行以下**上下文聚焦**流程：
 
