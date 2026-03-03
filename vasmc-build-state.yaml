@@ -56,3 +56,11 @@ entries:
     inputSignature: 256d01b594a17473aeebad2d7db0a74475841325b46543dc3194f351f163f264
     outputFile: prompt/anti-delusion/prompt.en.md
     targetLang: en
+  prompt-src/system-prompt.vasm.md|zh-CN:
+    inputSignature: ffebaeb333a29a557ef5a1cd3f702f2fbc572b94b096d7f41f2073967343fd46
+    outputFile: prompt/system-prompt.zh-CN.md
+    targetLang: zh-CN
+  prompt-src/system-prompt.vasm.md|en:
+    inputSignature: ffebaeb333a29a557ef5a1cd3f702f2fbc572b94b096d7f41f2073967343fd46
+    outputFile: prompt/system-prompt.en.md
+    targetLang: en
