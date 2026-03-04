@@ -64,3 +64,19 @@ entries:
     inputSignature: ffebaeb333a29a557ef5a1cd3f702f2fbc572b94b096d7f41f2073967343fd46
     outputFile: prompt/system-prompt.en.md
     targetLang: en
+  prompt-src/data-isolation/prompt.vasm.md|zh-CN:
+    inputSignature: ad8e88ac6fde2c7c4e6ca56770cf99a747336c42c0770e2f7dc8e5a615bb1c52
+    outputFile: prompt/data-isolation/prompt.zh-CN.md
+    targetLang: zh-CN
+  prompt-src/data-isolation/prompt.vasm.md|en:
+    inputSignature: ad8e88ac6fde2c7c4e6ca56770cf99a747336c42c0770e2f7dc8e5a615bb1c52
+    outputFile: prompt/data-isolation/prompt.en.md
+    targetLang: en
+  prompt-src/logic-system-prompt.vasm.md|zh-CN:
+    inputSignature: f34d2e19147041cadf1e6c9e4945f616221a0aa8f1f88cb9965984c6a87507f2
+    outputFile: prompt/logic-system-prompt.zh-CN.md
+    targetLang: zh-CN
+  prompt-src/logic-system-prompt.vasm.md|en:
+    inputSignature: f34d2e19147041cadf1e6c9e4945f616221a0aa8f1f88cb9965984c6a87507f2
+    outputFile: prompt/logic-system-prompt.en.md
+    targetLang: en
